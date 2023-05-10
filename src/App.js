@@ -1,8 +1,9 @@
-
+import Header from "./components/Header";
 const App = () =>{
   return(
     <div>
-      <h1>asdasd</h1>
+      <Header/>
+      <h1>dasdsdf</h1>
     </div>
   )
 }
