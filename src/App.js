@@ -3,7 +3,7 @@ const App = () =>{
   return(
     <div>
       <Header/>
-      <h1>dasdsdf</h1>
+      <h1>Personal Website</h1>
     </div>
   )
 }
