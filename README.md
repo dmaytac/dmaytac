@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Aitats 👋</h1>
-<h3 align="center">Passionate Software Developer Specializing in React.js, React Native, and Django</h3>
+<h3 align="center">Software Developer Specializing in React.js and React Native </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/delimola" target="blank">
